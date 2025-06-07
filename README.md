@@ -11,7 +11,9 @@
 
 **GIỚI THIỆU CHUNG**
 
-Software Developer với 3 năm kinh nghiệm, tôi hướng tới việc phát triển chuyên môn vững chắc và đóng góp giá trị thực tiễn cho doanh nghiệp. Mục tiêu của tôi là xây dựng sự nghiệp bền vững và có chiều sâu trong lĩnh vực công nghệ phần mềm.
+Kỹ sư phần mềm với 3 năm kinh nghiệm tham gia phát triển các hệ thống quản lý sản xuất, kho và đặt hàng. Đã làm việc với nhiều công nghệ như Java, ASP.NET Core, React, NextJS cùng các hệ quản trị cơ sở dữ liệu như Oracle, SQL Server và PostgreSQL. Có khả năng đọc hiểu tài liệu kỹ thuật, nắm bắt yêu cầu và phối hợp hiệu quả trong dự án.
+
+Hiện đang tiếp tục trau dồi kỹ năng lập trình, thiết kế hệ thống và ngoại ngữ. Trong vài năm tới, tôi hướng tới vai trò Technical Leader, mong muốn đóng góp nhiều hơn vào chất lượng kỹ thuật và sự phát triển của đội nhóm.
 
 ---
 
@@ -28,7 +30,7 @@ Software Developer với 3 năm kinh nghiệm, tôi hướng tới việc phát 
 
 * **Automated Warehouse Management System**
 
-  * **Công nghệ:** Java, Oracle (view, procedure), công cụ tạo mã nội bộ, máy ảo Windows
+  * **Công nghệ:** Java, Oracle, công cụ tạo mã nội bộ, máy ảo Windows
   * **Mô tả:** Hệ thống quản lý kho hoàn toàn tự động, tích hợp thiết bị thực tế như băng chuyền, cảm biến, barcode scanner. Dự án gồm nhiều module chuyên biệt (multiple project).
 
 * **Material Ordering System**
@@ -38,12 +40,12 @@ Software Developer với 3 năm kinh nghiệm, tôi hướng tới việc phát 
 
 * **Attendance Management System**
 
-  * **Công nghệ:** Next.js, MariaDB
+  * **Công nghệ:** Next.js, SQL Server
   * **Mô tả:** Hệ thống quản lý chấm công cho nhân viên, hỗ trợ đăng ký ca làm, chấm công, xuất báo cáo.
 
 * **ASEAN Sales Management System**
 
-  * **Công nghệ:** React, ASP.NET Core, SQL Server
+  * **Công nghệ:** ASP.NET Core, React, SQL Server
   * **Mô tả:** Hệ thống quản lý bán hàng toàn khu vực ASEAN, đa ngôn ngữ và tích hợp nhiều quốc gia.
 
 **Các dự án khác:**
@@ -84,11 +86,11 @@ Tốt nghiệp: Kỹ sư CNTT
 
 **KỸ NĂNG CHUYÊN MÔN**
 
-* **Ngôn ngữ lập trình:** Java, PHP, VB.NET, JavaScript, C#
-* **Backend Frameworks:** Spring Boot, Laravel, ASP.NET Core
+* **Ngôn ngữ lập trình:** Java, C#, JavaScript, PHP, VB.NET
+* **Backend Frameworks:** ASP.NET Core, Spring Boot, NodeJS, Laravel
 * **Frontend Frameworks/Libraries:** React.js, Next.js, Vue.js, HTML/CSS/JS, Bootstrap, Tailwind CSS
-* **Cơ sở dữ liệu:** Oracle, PostgreSQL, SQL Server, MySQL, MariaDB, MongoDB
-* **Công cụ & môi trường:** Git, GitLab CI, SVN, Jira, Docker, Visual Studio, IntelliJ, Eclipse
-* **Kỹ năng khác:** Phân tích yêu cầu, tối ưu truy vấn SQL, testing (manual), đọc hiểu tài liệu tiếng Nhật, phối hợp nhóm với BrSE/khách hàng
+* **Cơ sở dữ liệu:** Oracle, SQL Server, PostgreSQL, MySQL, MongoDB
+* **Công cụ & môi trường:** SVN, Git, Docker, Visual Studio, Eclipse
+* **Kỹ năng khác:** Phân tích yêu cầu, tối ưu truy vấn SQL, testing, phối hợp nhóm với BrSE/khách hàng
 
 ---
