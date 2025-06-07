@@ -4,8 +4,8 @@
 * Vị trí: Software Developer
 * Số điện thoại: +84987062xxx
 * Email: [trungnt2357@gmail.com](mailto:trungnt2357@gmail.com)
-* LinkedIn: [https://linkedin.com/in/nguyenthanhtrung](https://linkedin.com/in/nguyenthanhtrung)
-* GitHub: [https://github.com/trungnt2357](https://github.com/trungnt2357)
+* LinkedIn: [linkedin.com/in/trungnt2357](https://www.linkedin.com/in/trungnt2357)
+* GitHub: [github.com/trungnt2357](https://github.com/trungnt2357)
 
 ---
 
