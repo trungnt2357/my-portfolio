@@ -66,11 +66,18 @@ Software Developer với 3 năm kinh nghiệm, tôi hướng tới việc phát 
 * Hỗ trợ xây dựng giao diện người dùng, xử lý form đặt vé, thông tin lịch chiếu.
 * Học cách làm việc theo quy trình teamwork thực tế, lên kế hoạch và báo cáo tiến độ.
 
+**Thành tựu nổi bật:**
+
+* Hoàn thành đúng tiến độ các nhiệm vụ được giao trong thời gian thực tập.
+* Được đánh giá cao bởi người hướng dẫn về khả năng học hỏi nhanh và kỹ năng lập trình căn bản.
+* Làm quen với quy trình phát triển phần mềm thực tế, tạo nền tảng tốt cho công việc chính thức sau này.
 ---
 
 **HỌC VẤN**
 **Trường Đại học Tài nguyên và Môi trường**
+
 Ngành: Công nghệ thông tin
+
 Tốt nghiệp: Kỹ sư CNTT
 
 ---
