@@ -78,12 +78,13 @@ Hiện đang tiếp tục trau dồi kỹ năng lập trình, thiết kế hệ 
 
 **KỸ NĂNG CHUYÊN MÔN**
 
-* **Ngôn ngữ lập trình:** Java, C#, JavaScript, PHP, VB.NET
-* **Backend Frameworks:** ASP.NET Core, Spring Boot, NodeJS, Laravel
-* **Frontend Frameworks/Libraries:** React.js, Next.js, Vue.js, HTML/CSS/JS, Bootstrap, Tailwind CSS
+* **Ngôn ngữ:** Java, C#, JavaScript, PHP, VB.NET
+* **Backend:** ASP.NET Core, Spring Boot, Node.js, Laravel
+* **Frontend:** React.js, Next.js, Vue.js, HTML/CSS/JS, Bootstrap, Tailwind CSS
 * **Cơ sở dữ liệu:** Oracle, SQL Server, PostgreSQL, MySQL, MongoDB
-* **Công cụ & môi trường:** SVN, Git, Docker, Visual Studio, Eclipse
-* **Kỹ năng khác:** Phân tích yêu cầu, tối ưu truy vấn SQL, testing, phối hợp nhóm với BrSE/khách hàng
+* **DevOps & Cloud:** Git, SVN, Docker, GitLab CI, Jenkins, AWS (basic), Azure (basic)
+* **Công cụ:** Visual Studio, Eclipse, IntelliJ, Jira, Postman
+* **Kỹ năng khác:** Phân tích yêu cầu, tối ưu SQL, manual testing, quản lý công việc nhóm, phối hợp BrSE/khách hàng, đọc hiểu tài liệu tiếng Nhật
 
 ---
 
