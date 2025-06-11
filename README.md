@@ -2,7 +2,7 @@
 
 * Họ và tên: Nguyễn Thành Trung
 * Vị trí: Software Developer
-* Số điện thoại: +84987062xxx
+* Số điện thoại: +84987062561
 * Email: [trungnt2357@gmail.com](mailto:trungnt2357@gmail.com)
 * LinkedIn: [linkedin.com/in/trungnt2357](https://www.linkedin.com/in/trungnt2357)
 * GitHub: [github.com/trungnt2357](https://github.com/trungnt2357)
@@ -11,7 +11,7 @@
 
 **GIỚI THIỆU CHUNG**
 
-Kỹ sư phần mềm với 3 năm kinh nghiệm tham gia phát triển các hệ thống quản lý sản xuất, kho và đặt hàng. Đã làm việc với nhiều công nghệ như Java, ASP.NET Core, React, NextJS cùng các hệ quản trị cơ sở dữ liệu như Oracle, SQL Server và PostgreSQL. Có khả năng đọc hiểu tài liệu kỹ thuật, nắm bắt yêu cầu và phối hợp hiệu quả trong dự án.
+Kỹ sư phần mềm với 3 năm kinh nghiệm tham gia phát triển các hệ thống về kho, quản lý sản xuất và đặt hàng. Đã làm việc với nhiều công nghệ như Java, ASP.NET Core, React, NextJS cùng các hệ quản trị cơ sở dữ liệu như Oracle, SQL Server và PostgreSQL. Có kinh nghiệm đọc hiểu tài liệu kỹ thuật, nắm bắt yêu cầu và phối hợp hiệu quả trong dự án.
 
 Hiện đang tiếp tục trau dồi kỹ năng lập trình, thiết kế hệ thống và ngoại ngữ. Trong vài năm tới, tôi hướng tới vai trò Technical Leader, mong muốn đóng góp nhiều hơn vào chất lượng kỹ thuật và sự phát triển của đội nhóm.
 
@@ -31,7 +31,7 @@ Hiện đang tiếp tục trau dồi kỹ năng lập trình, thiết kế hệ 
 * **Automated Warehouse Management System**
 
   * **Công nghệ:** Java, Oracle, công cụ tạo mã nội bộ, máy ảo Windows
-  * **Mô tả:** Hệ thống quản lý kho hoàn toàn tự động, tích hợp thiết bị thực tế như băng chuyền, cảm biến, barcode scanner. Dự án gồm nhiều module chuyên biệt (multiple project).
+  * **Mô tả:** Hệ thống quản lý kho hoàn toàn tự động, tích hợp thiết bị thực tế như băng chuyền, cảm biến, barcode scanner. Dự án gồm nhiều module chuyên biệt.
 
 * **Material Ordering System**
 
@@ -50,8 +50,8 @@ Hiện đang tiếp tục trau dồi kỹ năng lập trình, thiết kế hệ 
 
 **Các dự án khác:**
 
-* **Công nghệ:** React, Next.js, Vue.js, RESTful API, .NET, PHP, WinForms, VB6, SQL Server, MySQL, PostgreSQL, Oracle, SVN, MongoDB, Tailwind CSS, Docker, ...
-
+* **Công nghệ:** Phụ thuộc vào từng dự án.
+  
 **Thành tựu nổi bật:**
 
 * Luôn hoàn thành công việc đúng hoặc sớm hơn thời hạn, không phát sinh lỗi nghiêm trọng.
@@ -73,14 +73,6 @@ Hiện đang tiếp tục trau dồi kỹ năng lập trình, thiết kế hệ 
 * Hoàn thành đúng tiến độ các nhiệm vụ được giao trong thời gian thực tập.
 * Được đánh giá cao bởi người hướng dẫn về khả năng học hỏi nhanh và kỹ năng lập trình căn bản.
 * Làm quen với quy trình phát triển phần mềm thực tế, tạo nền tảng tốt cho công việc chính thức sau này.
----
-
-**HỌC VẤN**
-**Trường Đại học Tài nguyên và Môi trường**
-
-Ngành: Công nghệ thông tin
-
-Tốt nghiệp: Kỹ sư CNTT
 
 ---
 
@@ -92,5 +84,14 @@ Tốt nghiệp: Kỹ sư CNTT
 * **Cơ sở dữ liệu:** Oracle, SQL Server, PostgreSQL, MySQL, MongoDB
 * **Công cụ & môi trường:** SVN, Git, Docker, Visual Studio, Eclipse
 * **Kỹ năng khác:** Phân tích yêu cầu, tối ưu truy vấn SQL, testing, phối hợp nhóm với BrSE/khách hàng
+
+---
+
+**HỌC VẤN**
+**Trường Đại học Tài nguyên và Môi trường**
+
+Ngành: Công nghệ thông tin
+
+Tốt nghiệp: Kỹ sư CNTT
 
 ---
